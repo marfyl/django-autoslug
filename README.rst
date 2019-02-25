@@ -1,14 +1,14 @@
-[![Build Status](https://travis-ci.org/marfyl/django-autoslug.svg?branch=master)](https://travis-ci.org/marfyl/django-autoslug)
-
-
 django-autoslug
 ~~~~~~~~~~~~~~~
 
 .. image:: https://img.shields.io/coveralls/neithere/django-autoslug.svg
     :target: https://coveralls.io/r/neithere/django-autoslug
 
+.. image:: https://img.shields.io/travis/neithere/django-autoslug.svg
+    :target: https://travis-ci.com/marfyl/django-autoslug.svg?branch=master
+
 .. image:: https://img.shields.io/pypi/format/django-autoslug.svg
-    :target: https://github.com/marfyl/django-autoslug
+    :target: https://pypi.python.org/pypi/django-autoslug
 
 .. image:: https://img.shields.io/pypi/status/django-autoslug.svg
     :target: https://pypi.python.org/pypi/django-autoslug
